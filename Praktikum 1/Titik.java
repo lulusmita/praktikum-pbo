@@ -1,3 +1,9 @@
+/*
+*Titik.java 22/02/2023
+*Penulis: Lulus Dwiyan Mita 24060121120029
+*Deskripsi: program yang berisi kelas Titik
+*/
+
 class Titik{
       Double absis;
       Double ordinat;
