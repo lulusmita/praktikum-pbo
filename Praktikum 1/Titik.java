@@ -9,6 +9,7 @@ class Titik{
       Double absis;
       Double ordinat;
       static int counterTitik;
+      //konstruktor
       Titik(){
             counterTitik++;
       }
