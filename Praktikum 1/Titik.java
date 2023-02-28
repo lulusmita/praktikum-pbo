@@ -5,6 +5,7 @@
 */
 
 class Titik{
+      //atribut
       Double absis;
       Double ordinat;
       static int counterTitik;
@@ -16,6 +17,7 @@ class Titik{
             ordinat=o;
             counterTitik++;
       }
+      //metode
       void setAbsis(Double a){
             absis=a;
       }
