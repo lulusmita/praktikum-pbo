@@ -1,3 +1,9 @@
+/*
+*OperasiTitik.java 22/02/2023
+*Penulis: Lulus Dwiyan Mita 24060121120029
+*Deskripsi: kelas yang berisi program untuk operasi titik
+*/
+
 class OperasiTitik{
         private void refleksisumbuX(Titik titik){
                 Double ordinat = titik.getOrdinat();
