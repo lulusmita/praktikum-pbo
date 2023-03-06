@@ -1,7 +1,8 @@
 /*
 *Titik.java 22/02/2023
 *Penulis: Lulus Dwiyan Mita 24060121120029
-*Deskripsi: program berisi kelas Titik yang akan dimanfaatkan kelas MTitik
+*Deskripsi: program berisi kelas Titik yang akan dimanfaatkan kelas MOperasiTitik
+*Lab: B1
 */
 
 class Titik{
