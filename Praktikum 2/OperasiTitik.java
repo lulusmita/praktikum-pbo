@@ -1,7 +1,8 @@
 /*
-*OperasiTitik.java 22/02/2023
+*OperasiTitik.java 1/03/2023
 *Penulis: Lulus Dwiyan Mita 24060121120029
 *Deskripsi: kelas yang berisi program untuk operasi titik
+*Lab: B1
 */
 
 class OperasiTitik{
