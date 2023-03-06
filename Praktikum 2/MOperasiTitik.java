@@ -1,5 +1,5 @@
 /*
-*MTitik.java 22/02/2023
+*MOperasiTitik.java 22/02/2023
 *Penulis: Lulus Dwiyan Mita 24060121120029
 *Deskripsi: kelas yang berisi program utama yang memanfaatkan kelas Titik dan OperasiTitik
 *Lab: B1
