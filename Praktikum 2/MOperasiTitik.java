@@ -1,10 +1,11 @@
 /*
 *MTitik.java 22/02/2023
 *Penulis: Lulus Dwiyan Mita 24060121120029
-*Deskripsi: kelas yang berisi program utama yang memanfaatkan kelas Titik
+*Deskripsi: kelas yang berisi program utama yang memanfaatkan kelas Titik dan OperasiTitik
+*Lab: B1
 */
 
-class MTitik{
+class MOperasiTitik{
      public static void main(String[] args){
           Titik t1;
           Titik t2;
