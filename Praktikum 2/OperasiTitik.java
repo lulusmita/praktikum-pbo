@@ -4,7 +4,18 @@
 *Deskripsi: kelas yang berisi program untuk operasi titik
 *Lab: B1
 */
-
+/*Latihan*/
+class OperasiTitik1{
+        public void refleksisumbuX(Titik t){
+                Double ordinat = t.getOrdinat();
+                t.setOrdinat(-1*ordinat);
+       }
+        public void refleksisumbuY(Titik t){
+                Double absis = t.getAbsis();
+                t.setAbsis(-1*absis);
+       }
+}
+/*Tugas*/
 class OperasiTitik{
         private void refleksisumbuX(Titik titik){
                 Double ordinat = titik.getOrdinat();
