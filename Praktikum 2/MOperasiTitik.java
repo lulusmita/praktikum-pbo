@@ -24,9 +24,9 @@ class MOperasiTitik{
           
           OperasiTitik op =new OperasiTitik();
           Titik t4 = op.refleksiX(t1);
-          System.out.println("Titik t4 setelah direfleksikan terhadap X adalah ("+t4.getAbsis()+","+t4.getOrdinat()+")");
+          System.out.println("Titik t1 setelah direfleksikan terhadap X adalah ("+t4.getAbsis()+","+t4.getOrdinat()+")");
           Titik t5 = op.refleksiY(t1);
-          System.out.println("Titik t5 setelah direfleksikan terhadap Y adalah ("+t5.getAbsis()+","+t5.getOrdinat()+")");        
+          System.out.println("Titik t1 setelah direfleksikan terhadap Y adalah ("+t5.getAbsis()+","+t5.getOrdinat()+")");        
 }
 }
    
