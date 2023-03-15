@@ -1,3 +1,8 @@
+/*
+*TimSepakbola.java 15/03/2023
+*Penulis: Lulus Dwiyan Mita 24060121120029
+*Deskripsi: program berisi kelas TimSepakbola yang akan dimanfaatkan kelas MTimSepakbola
+*/
 class TimSepakbola {
 
   // Assume there are only 2 teams using this class!
