@@ -1,3 +1,9 @@
+/*
+*MTimSepakbola.java 22/02/2023
+*Penulis: Lulus Dwiyan Mita 24060121120029
+*Deskripsi: kelas yang berisi program utama yang memanfaatkan kelas TimSepakbola
+*/
+
 class MTimSepakbola {
   public static void main(String[] args) {
     // TODO: Make an instance called 'liverpool' -> use constructor which you have made before
