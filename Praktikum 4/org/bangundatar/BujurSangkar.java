@@ -1,5 +1,5 @@
 /*
-*BujurSangkar.java 08/03/2023
+*BujurSangkar.java 15/03/2023
 *Penulis: Lulus Dwiyan Mita 24060121120029
 *Deskripsi: representasi dari objek bujur sangkar, turunan kelas poligon
 *Lab: B1
