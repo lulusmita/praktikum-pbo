@@ -25,3 +25,9 @@ public class Asersi2{
        System.out.println("Keliling lingkaran = "+kelilingLingkaran);
    }
 }
+//secara konsep, ada yang kurang tepat pada program Asersi2 di atas?
+
+//Secara konsep, program Asersi2 di atas sudah cukup tepat. Namun, ada satu hal yang perlu diperhatikan, yaitu asersi yang digunakan.
+//Pada baris assert(jariJari>0):"jari jari tidak boleh nol!!!";, asersi tersebut memeriksa apakah nilai jari-jari lebih besar dari nol. 
+//Sebenarnya, jari-jari pada program tersebut memiliki nilai awal 0, sehingga asersi tersebut akan selalu menghasilkan false. 
+//Sebaiknya, nilai awal jari-jari diberikan nilai yang lebih besar dari nol, misalnya 1, sehingga asersi tersebut bisa berfungsi dengan benar. 
