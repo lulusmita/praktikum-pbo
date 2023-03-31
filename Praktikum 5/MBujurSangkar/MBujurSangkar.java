@@ -15,3 +15,5 @@ class MBujurSangkar{
          System.out.println("Luas bujur sangkar dengan sisi "+sisi+" satuan adalah "+bs.hitungLuas(sisi));
    }
 }
+//Praktekkan: apa yang terjadi apabila kelas BujurSangkar tidak membuat implementasi metode abstrak yang ada pada BangunDatar? jelaskan ?
+   
