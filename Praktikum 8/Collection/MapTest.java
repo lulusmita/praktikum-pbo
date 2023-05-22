@@ -21,11 +21,17 @@ public class MapTest {
 
         // mengambil keseluruhan kunci sebagai objek collection Set
         Set<Integer> keys = map.keySet();
-
-        // iterasi untuk mengambil keseluruhan nilai dari kunci
         for (Integer key : keys) {
-            String value = map.get(key);
-            System.out.println("Nilai untuk kunci " + key + " adalah " + value);
+             System.out.println("Elemen kunci " + key);
+        }
+
+        //bagaimana iterasi untuk mengambil keseluruhan 
+        //nilai dari kunci ? tulis pada laporan anda
+        //petunjuk : gunakan iterasi seperti program ArrayListTest
+        
+        Collection<String> values = map.values();
+        for(String value: values){
+            System.out.println("Elemen nilai : "+value);
         }
     }
 }
