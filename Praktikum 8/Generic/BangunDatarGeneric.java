@@ -17,3 +17,10 @@ public class BangunDatarGeneric<T1 extends BangunDatar>{
           return bangunDatar.hitungKeliling();
       }
 }
+
+/* 
+* T maupun T1 itu adalah parameter generik yang akan digunakan untuk menyatakan tipe yang akan dinyatakan 
+* kemudian saat menggunakan kelas atau metode generik. Saat T diganti dengan T1 dalam kelas BangunDatarGeneric,
+* kita sedang mengganti tipe parameter generik T dengan tipe baru yaitu T1. Dalam hal ini, kita mengubah kelas 
+* BangunDatarGeneric menjadi kelas yang lebih spesifik untuk bekerja dengan tipe T1.
+*/
